@@ -29,12 +29,6 @@
     <a href="https://spyboy.in/Discord">
         <img src="https://img.shields.io/badge/-Discord-black?logo=discord&style=for-the-badge">
     </a>
-</p>
-
-<p align="center">
-    <img width="100%" src="https://github.com/spyboy-productions/omnisci3nt/blob/main/image/omnisci3nt1.png" />
-</p>
-
 ---
 
 ## 🕵️‍♂️ Omnisci3nt: One Tool to Rule All Recon
@@ -174,12 +168,6 @@ pipx list
 
 ---
 
-## 🤝 Contribute
-
-Pull requests and issues are welcome! Found a bug? Have an idea? Let’s collaborate to improve Omnisci3nt.
-
----
-
 ## 🧠 To-Do List
 
 - [ ] Integration with [urlscan.io](https://urlscan.io)
@@ -188,15 +176,6 @@ Pull requests and issues are welcome! Found a bug? Have an idea? Let’s collabo
 - [ ] Banner grabbing
 - [ ] CVE-based vulnerability check (top techs)
 
----
-
-## 💬 Community & Support
-
-Need help or want to suggest a feature? Join our Discord server and connect with the community.
-
-[![Join Discord](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
-
----
 
 ### 📸 Snapshots
 
