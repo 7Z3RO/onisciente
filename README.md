@@ -14,7 +14,6 @@
   </a>
 
 <img src="https://i.ibb.co/nqMwChYw/C-pia-de-C-pia-de-Design-sem-nome-20250714-145205-0000.png" alt="C-pia-de-C-pia-de-Design-sem-nome-20250714-145205-0000" border="0">
----
 
 ## 🕵️‍♂️ Omnisci3nt: One Tool to Rule All Recon
 
