@@ -13,9 +13,7 @@
     <img src="https://img.shields.io/github/license/spyboy-productions/omnisci3nt?style=for-the-badge" alt="License">
   </a>
 
-<header style="text-align: center; padding: 20px;">
-  <img src="A_logo_design_of_&quot;P4yLoader_Hacker&quot;_is_displayed_o.png" alt="P4yLoader Logo" style="max-width: 100%; height: auto;">
-</header>
+<img src="https://i.ibb.co/nqMwChYw/C-pia-de-C-pia-de-Design-sem-nome-20250714-145205-0000.png" alt="C-pia-de-C-pia-de-Design-sem-nome-20250714-145205-0000" border="0">
 ---
 
 ## 🕵️‍♂️ Omnisci3nt: One Tool to Rule All Recon
