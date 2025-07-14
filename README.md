@@ -12,23 +12,7 @@
   <a href="https://github.com/spyboy-productions/omnisci3nt/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/spyboy-productions/omnisci3nt?style=for-the-badge" alt="License">
   </a>
-</p>
-<p align="center">
-    <a href="https://spyboy.in/twitter">
-        <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://spyboy.in/">
-        <img src="https://img.shields.io/badge/-spyboy.in-black?logo=google&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://spyboy.blog/">
-        <img src="https://img.shields.io/badge/-spyboy.blog-black?logo=wordpress&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://spyboy.in/Discord">
-        <img src="https://img.shields.io/badge/-Discord-black?logo=discord&style=for-the-badge">
-    </a>
+
 ---
 
 ## 🕵️‍♂️ Omnisci3nt: One Tool to Rule All Recon
