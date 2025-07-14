@@ -1,19 +1,6 @@
 <h4 align="center">⭐️ If you find this GitHub repo useful, please consider giving it a star! ⭐️</h4>
-<p align="center">
-  <a href="https://github.com/spyboy-productions/omnisci3nt/stargazers">
-    <img src="https://img.shields.io/github/stars/spyboy-productions/omnisci3nt?color=yellow&style=for-the-badge" alt="Stars">
-  </a>
-  <a href="https://github.com/spyboy-productions/omnisci3nt/network/members">
-    <img src="https://img.shields.io/github/forks/spyboy-productions/omnisci3nt?color=orange&style=for-the-badge" alt="Forks">
-  </a>
-  <a href="https://github.com/spyboy-productions/omnisci3nt/issues">
-    <img src="https://img.shields.io/github/issues/spyboy-productions/omnisci3nt?style=for-the-badge" alt="Issues">
-  </a>
-  <a href="https://github.com/spyboy-productions/omnisci3nt/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/spyboy-productions/omnisci3nt?style=for-the-badge" alt="License">
-  </a>
 
-<img src="https://i.ibb.co/nqMwChYw/C-pia-de-C-pia-de-Design-sem-nome-20250714-145205-0000.png" alt="C-pia-de-C-pia-de-Design-sem-nome-20250714-145205-0000" border="0">
+<a href="https://ibb.co/zW1f0tS3"><img src="https://i.ibb.co/Fk97jdBQ/20250714-151816-0000.png" alt="20250714-151816-0000" border="0"></a>
 
 ## 🕵️‍♂️ Omnisci3nt: One Tool to Rule All Recon
 
